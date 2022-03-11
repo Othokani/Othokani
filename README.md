@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Othokani
+- 👀 I’m interested in python, machine learning and aws
+- 🌱 I’m currently learning scala
