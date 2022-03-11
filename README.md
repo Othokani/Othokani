@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Othokani
-- 👀 I’m interested in python, machine learning and aws
+- 👀 I’m interested in python, machine learning, scala, spark, aws and many other technologies
 - 🌱 I’m currently learning scala
